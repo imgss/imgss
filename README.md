@@ -3,10 +3,6 @@
 ```js
 alert('hello world')
 ```
-<iframe height="525" style="width: 100%;" scrolling="no" title="shape-tutorial-codesample-22" src="https://codepen.io/imgss/embed/GRqrROw?height=525&theme-id=27057&default-tab=result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href='https://codepen.io/imgss/pen/GRqrROw'>shape-tutorial-codesample-22</a> by imgss
-  (<a href='https://codepen.io/imgss'>@imgss</a>) on <a href='https://codepen.io'>CodePen</a>.
-</iframe>
 <!--
 **imgss/imgss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
