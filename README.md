@@ -5,7 +5,7 @@ alert('hello world')
 ```
 [![](https://github-readme-stats.vercel.app/api?username=imgss&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/imgss-github-readme)
+![](https://komarev.com/ghpvc/?username=your-github-username)
 
 <!--
 **imgss/imgss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
